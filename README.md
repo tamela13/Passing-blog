@@ -30,13 +30,13 @@
           
                 
           Berger, C.R. (1975). Proactive and retroactive attribution processes in interpersonal communications. Human Communication Research 2(1), 33-50. 
-                
-           
+                           
          Garfinkel, H. (1967). Studies in ethnomethodology. EPrentice-Hall. 
                 
-                
-         Gersen, J. S. (2016). Who’s Afraid of Gender-Neutral Bathrooms? New Yorker Article. https://www.newyorker.com/news/news-desk/whos-afraid-of-same-sex-bathrooms 
+         Gersen, J. S. (2016). Who’s Afraid of Gender-Neutral Bathrooms? New Yorker Article.
+		https://www.newyorker.com/news/news-desk/whos-afraid-of-same-sex-bathrooms 
                 
          NBC Left Field. (2018, March 27). Passing For an Identity Not Your Own. [Video file]. Retrieved from https://youtu.be/M_Zebl-3cf4 
                 
-         TED [TEDx Talks]. (2016, December 23). Seconde Nimenya:  We Are Not All That Different: Race and Culture Identity. [Video file]. Retrieved from             https://www.youtube.com/watch?v=8QuAok_Xiyg&t=2s 
+         TED [TEDx Talks]. (2016, December 23). Seconde Nimenya:  We Are Not All That Different: Race and Culture Identity.
+		[Video file]. Retrieved from https://www.youtube.com/watch?v=8QuAok_Xiyg&t=2s 
