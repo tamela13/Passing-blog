@@ -7,7 +7,7 @@
         <meta charset="UTF-8"/>
 		<meta name="keywords" content =""/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>A Blog on Contemporary Passing</title>
+        A Blog on Contemporary Passing
         <link rel="stylesheet" href="Blog_Stylesheet.css">
     </head>
     <body>
