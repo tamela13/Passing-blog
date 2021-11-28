@@ -25,20 +25,18 @@
             <p>In 2016, there was an uproar about gender and restroom use. People were arguing and hiring lawyers all over our country to deal with the issue of whether or not it is acceptable for the opposite sex to use a gender-specific bathroom. Some people conveyed the reason was they worried about this issue is because of safety. They are concerned a heterosexual man would be passing as a transgender person for only one day, simply to follow women or girls into a restroom. This accusation created animosity amongst transgender people because they thought their freedom was being taken from them by the government. Some felt the worries of others would cause the government to create laws that will make them pass as the opposite gender they associate with. A few states fought to make laws about gender restroom use and the fight is still going on 5 years later. In 2016, Indiana initiated a bill to pass a law that would make it a crime for a person to enter a single-sex public restroom that does not match the person’s “biological gender,” defined in terms of chromosomes and sex at birth. The punishment could be up to a year in jail and a five-thousand-dollar fine (Gersen, 2016).  While some states are fighting to make these regulations, other states are doing the opposite. As of June 2018, there was no federal anti-discrimination law that provided protections on the based on  sexual orientation or gender identity, but after the restroom controversy, many states have been working on implementing new laws.  </p>
             <p>With regards to gender-specific restrooms, the question is, in which instance is the transgender person passing? Some people think that the transgender person is trying to pass as something they are not, and others feel the transgender people are being told to pass as an identity they don’t associate with. This issue led to thousands of lawsuits and is an ongoing issue. Reasons for passing as a different identity may have changed over the 100 years, but it is still a worry for today’s society.   </p>
             
-            <section>
-                <h2>
+            
                     References:
                 </h2>
-                <p>
+                
                     Berger, C.R. (1975). Proactive and retroactive attribution processes in interpersonal communications. Human Communication Research 2(1), 33-50. 
-                </p>
-                <p>
-                    Garfinkel, H. (1967). Studies in ethnomethodology. EPrentice-Hall. 
-                </p>
-                <p>
-                   Gersen, J. S. (2016). Who’s Afraid of Gender-Neutral Bathrooms? New Yorker Article. https://www.newyorker.com/news/news-desk/whos-afraid-of-same-sex-bathrooms 
-                </p>
-                <p>
+                
+           
+         Garfinkel, H. (1967). Studies in ethnomethodology. EPrentice-Hall. 
+                
+                
+         Gersen, J. S. (2016). Who’s Afraid of Gender-Neutral Bathrooms? New Yorker Article. https://www.newyorker.com/news/news-desk/whos-afraid-of-same-sex-bathrooms 
+                
                     NBC Left Field. (2018, March 27). Passing For an Identity Not Your Own. [Video file]. Retrieved from https://youtu.be/M_Zebl-3cf4 
                 </p>
                 <p>
